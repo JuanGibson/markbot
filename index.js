@@ -50,7 +50,7 @@
   */
  client.on("ready", () => {
    console.log(`${client.user.username} Pronto!`);
-   client.user.setActivity(`${PREFIX}help e ${PREFIX}play,J0TAC Markiori Não existe.`, { type: "LISTENING" });
+   client.user.setActivity(`${PREFIX}help e ${PREFIX}play, J0TAC Markiori Não existe.`, { type: "LISTENING" });
  });
  client.on("warn", (info) => console.log(info));
  client.on("error", console.error);
