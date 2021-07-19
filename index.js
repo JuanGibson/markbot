@@ -96,7 +96,7 @@
      if (now < expirationTime) {
        const timeLeft = (expirationTime - now) / 1000;
        return message.reply(
-         i18n.__mf("common.cooldownMessage", { time: timeLeft.toFixed(1), name: command.name })
+         i18n.__mf("common.cooldownMessage", { time: timeLeft.toFixed(8), name: command.name })
        );
      }
    }
