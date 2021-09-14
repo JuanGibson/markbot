@@ -50,7 +50,7 @@
   */
  client.on("ready", () => {
    console.log(`${client.user.username} Pronto!`);
-   client.user.setActivity(`${PREFIX}help e ${PREFIX}play, Reiniciamos Todos os Dias 5h, J0TAC Markiori Não existe.`, { type: "LISTENING" });
+   client.user.setActivity(`${PREFIX}help e ${PREFIX}play, De Markiori:Que a casada comece YouTube!, Reiniciamos Todos os Dias 5h.`, { type: "LISTENING" });
  });
  client.on("warn", (info) => console.log(info));
  client.on("error", console.error);
