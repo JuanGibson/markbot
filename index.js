@@ -50,7 +50,7 @@
   */
  client.on("ready", () => {
    console.log(`${client.user.username} Pronto!`);
-   client.user.setActivity(`${PREFIX}help e ${PREFIX}play, De Markiori:Que a casada comece YouTube!, Reiniciamos Todos os Dias 5h.`, { type: "LISTENING" });
+   client.user.setActivity(`${PREFIX}help e ${PREFIX}play, De Markiori:Salve cria o bot é meio bugado estou programando ainda e procurando um servidor.`, { type: "LISTENING" });
  });
  client.on("warn", (info) => console.log(info));
  client.on("error", console.error);
