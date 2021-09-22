@@ -2,8 +2,8 @@
 
 ![logo](https://1.bp.blogspot.com/-9tIeR9DYKTo/YUsQlV56V3I/AAAAAAAACe8/7-2D_kNgfTMKOKDQpnGa8owT0XbDRSkWgCLcBGAsYHQ/s1366/Logo%2BJ0TAC%2Bvermelha%2Be%2Bbranca%2Bcom%2Bletra%2Bvermelha.jpg)
 
-# 🤖 EvoBot (Discord Music Bot)
-> EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# 🤖 J0TAC Master (Discord Music Bot)
+> J0TAC Master is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -17,8 +17,9 @@
 If deploying to Heroku make sure to create config variables
 
 ```
-git clone https://github.com/eritislami/evobot.git
-cd evobot
+git clone https://github.com/eritislami/bot.git
+cd 
+bot
 npm install
 ```
 
@@ -115,17 +116,3 @@ Examples: `1` or `1,2,3`
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
 
-![reactions](https://i.imgur.com/9S7Omf9.png)
-
-## 🤝 Contributing
-
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
-
-## 📝 Credits
-
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
