@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
+![logo](https://1.bp.blogspot.com/-9tIeR9DYKTo/YUsQlV56V3I/AAAAAAAACe8/7-2D_kNgfTMKOKDQpnGa8owT0XbDRSkWgCLcBGAsYHQ/s1366/Logo%2BJ0TAC%2Bvermelha%2Be%2Bbranca%2Bcom%2Bletra%2Bvermelha.jpg)
 
 # 🤖 EvoBot (Discord Music Bot)
 > EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
